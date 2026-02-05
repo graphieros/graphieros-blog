@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "graphieros",
   description: "Charting a blog",
+  base: '/graphieros-blog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
