@@ -68,7 +68,7 @@ My first PR installed vue-data-ui on the project and put in place the sparkline 
 Like a Renaissance master, Daniel proposed the final touch, suggesting to add a pulse to the chart.
 This of course required updating vue-data-ui with this cool feature, which makes a world of difference to the overall personality of the chart, which you can see in all its glory on any package page of <a href="https://npmx.dev/" target="_blank">npmx</a>.
 
-From now on, we had a pulse.
+From then on, we had a pulse.
 
 <div style="display: flex; justify-content:center">
     <img src="/public/pr-merged.png" alt="The GitHub message when a PR was successfully merged">
