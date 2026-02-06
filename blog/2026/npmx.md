@@ -51,7 +51,7 @@ It's funny how things start liquid.<br>
 Then, water slowly turns into clay.<br>
 Later, earth hopefully remains malleable.<br>
 If everything has to become iron in the end<br>
-Remember how beautiful it it to swim
+Remember how beautiful it is to swim
 </i>
 
 The first days of npmx are not yet hidden behind the event horizon, though the intensity and amount of hours compressed there is starting to blur its contour.
