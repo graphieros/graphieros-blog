@@ -63,7 +63,7 @@ All appeared with beautiful minds, multiple ideas, so many awesome features to c
     <img src="/public/doit.png" width="200" alt="A meme of Daniel saying DO IT">
 </div>
 
-My first PR installed vue-data-ui on the project and put in place the sparkline chart we're all familiar with on npmjs, but nicer looking.
+My first PR installed <a href="https://github.com/graphieros/vue-data-ui" target="_blank">vue-data-ui</a> on the project and put in place the sparkline chart we're all familiar with on npmjs, but nicer looking.
 
 Like a Renaissance master, Daniel proposed the final touch, suggesting to add a pulse to the chart.
 This of course required updating vue-data-ui with this cool feature, which makes a world of difference to the overall personality of the chart, which you can see in all its glory on any package page of <a href="https://npmx.dev/" target="_blank">npmx</a>.
@@ -76,7 +76,7 @@ From then on, we had a pulse.
 
 ## OSS community and care
 
-Prior to my contributions to npmx, my experience with open-source was limited to the purview of my most successful library, vue-data-ui, a chart components library for Vue 3, which I started developing in August 2023 to polish my portfolio.
+Prior to my contributions to npmx, my experience with open-source was limited to the purview of my most successful library, <a href="https://github.com/graphieros/vue-data-ui" target="_blank">vue-data-ui</a>, a chart components library for Vue 3, which I started developing in August 2023 to polish my portfolio.
 
 This was mostly a one-man experience.<br>
 New features, fixing issues, updating the docs, etc.
