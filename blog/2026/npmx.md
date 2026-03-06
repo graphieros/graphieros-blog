@@ -158,6 +158,14 @@ I thank all of the npmx team, you are all the best.
 
 ## More from my friends
 
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items:end">
+<img src="/npmx-logo-light.png" class="logo-light" alt="npmx logo" width="200">
+<img src="/npmx-logo-dark.png" class="logo-dark" alt="npmx logo" width="200">
+<div style="padding-bottom: 1rem">
+  Articles from npmx maintainers
+</div>
+</div>
+
 <NpmxArticles
 :articles="[
   {
@@ -300,3 +308,17 @@ I thank all of the npmx team, you are all the best.
   }
 ]"
 />
+
+<style>
+.logo-dark {
+  display: none;
+}
+
+.dark .logo-light {
+  display: none;
+}
+
+.dark .logo-dark {
+  display: inline;
+}
+</style>
