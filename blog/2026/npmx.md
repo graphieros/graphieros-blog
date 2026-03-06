@@ -1,11 +1,29 @@
 ---
 title: vue-data-ui is on npmx, npmx is on vue-data-ui
 date: 2026-02-05
-description: Exploring a minimal npm-based workflow and why it exists.
+description: How a Bluesky thread about npm sparked my first contributions to npmx, bringing charts with vue-data-ui and revealing the power of open-source collaboration.
 tags:
   - npm
   - tooling
   - experiments
+head:
+  - - meta
+    - property: og:title
+      content: vue-data-ui is on npmx, npmx is on vue-data-ui
+  - - meta
+    - property: og:description
+      content: How a Bluesky thread about npm sparked my first contributions to npmx, bringing charts with vue-data-ui and revealing the power of open-source collaboration.
+  - - meta
+    - property: og:image
+      content: https://graphieros.github.io/graphieros-blog/og-npmx.png
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:image
+      content: https://graphieros.github.io/graphieros-blog/og-npmx.png
+---
+
 ---
 
 # vue-data-ui is on npmx
