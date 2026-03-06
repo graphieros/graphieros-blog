@@ -31,6 +31,7 @@ head:
 # npmx is on vue-data-ui
 
 2026-02-06
+<img src="/public/og-npmx.png" alt="A sparkline chart growing towards exploding green fireworks">
 
 ## Random seeds
 
