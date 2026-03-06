@@ -5,6 +5,14 @@ export default defineConfig({
   title: "graphieros",
   description: "Charting words",
   base: '/graphieros-blog/',
+  head: [
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'graphieros' }],
+    ['meta', { property: 'og:description', content: 'Charting words' }],
+    ['meta', { property: 'og:image', content: 'https://graphieros.com/graphieros-blog/og-default.png' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: 'https://graphieros.com/graphieros-blog/og-default.png' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
