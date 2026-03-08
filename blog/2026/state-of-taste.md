@@ -1,7 +1,7 @@
 ---
 title: State of taste
 date: 2026-03-08
-description: A reflection on my experience as a painter and what it taught me about taste—how what feels like personal preference is often shaped by shared cultural frameworks and a sense of belonging.
+description: A reflection on my experience as a painter and what it taught me about taste, how what feels like personal preference is often shaped by shared cultural frameworks and a sense of belonging.
 tags:
   - npm
   - tooling
@@ -12,7 +12,7 @@ head:
       content: State of taste
   - - meta
     - property: og:description
-      content: A reflection on my experience as a painter and what it taught me about taste—how what feels like personal preference is often shaped by shared cultural frameworks and a sense of belonging.
+      content: A reflection on my experience as a painter and what it taught me about taste, how what feels like personal preference is often shaped by shared cultural frameworks and a sense of belonging.
   - - meta
     - property: og:image
       content: https://graphieros.github.io/graphieros-blog/og-taste.png
