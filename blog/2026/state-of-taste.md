@@ -50,14 +50,17 @@ Stands which end in a final 'it depends' from a tired third party, after which a
 
 The tricky twist lays in shared cultural habits, the common framework which encompasses all our weird personal tastes, the box we want to boast to think out of. I never got this thing about the box by the way. As long as there is a box, if you think out of it, your point of reference remains... the box. And by virtue of magic, destroying a box always creates a new container. From artistic movement to manifests, history of art is just a series of beautiful minds trapped inside infinite unwrapping Russian dolls.
 
-Creativity can only happen around and / or inside the box.
-A piece of stone.
-A time section.
-A wood board.
-A scene.
+Creativity can only happen around and / or inside the box.<br>
+A piece of stone.<br>
+A time section.<br>
+A wood board.<br>
+A scene.<br>
+A file.
 
 Constraints of matter, as a finite reality, define the outlines for infinite creation possibilities. So who cares of the box, really. The relationship to the box, the tension with it, and what it reveals about us, is what fuels creativity.
 
-Expressing taste reveals the contours of one's relationship to the box. A sociological approach can free us from the illusions of personal truths. It is religion, in that it links cultural groups and signals membership. It is political, in that it divides and negotiates. And this is why it is so interesting, because deep inside, I know this green colour vibrates in me, I know this shape is the thing of beauty, and I'm ready to fight for the truth I feel. It is so vibrant, that I can't see I'm actually acted by a sense of belonging that desires eternity and absoluteness. Monumentum aere perennius.
+Expressing taste reveals the contours of one's relationship to the box. A sociological approach can free us from the illusions of personal truths. It is religion, in that it links cultural groups and signals membership. It is political, in that it divides and negotiates. And this is why it is so interesting, because deep inside, I know this green colour vibrates in me, I know this shape is the thing of beauty, and I'm ready to fight for the truth I feel. It is so vibrant, that I can't see I'm actually acted by a sense of belonging that desires eternity and absoluteness.
+
+_Monumentum aere perennius_
 
 I'll leave it here for now.
