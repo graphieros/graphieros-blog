@@ -28,7 +28,7 @@ head:
 
 # a11y ch4r75
 
-2026-03-23
+2026-03-24
 
 Some years ago, I discovered the joys of building svg visuals brick by brick. This was early days, when I was trying to find a solution to write <a href="https://graphieros-editor.graphieros.com/" target="_blank">graphieros</a> on a web page.
 
