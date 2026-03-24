@@ -1,6 +1,6 @@
 ---
 title: a11y ch4r75
-date: 2026-03-23
+date: 2026-03-24
 description: Reflections on iterative improvements to make vue-data-ui a more accessible data visualisation library, and the implementation of new a11y features of the charts used in npmx.dev.
 tags:
   - charts
@@ -15,13 +15,13 @@ head:
       content: Reflections on iterative improvements to make vue-data-ui a more accessible data visualisation library, and the implementation of new a11y features of the charts used in npmx.dev.
   - - meta
     - property: og:image
-      content: https://graphieros.github.io/graphieros-blog/og-taste.png
+      content: https://graphieros.github.io/graphieros-blog/og-a11y.png
   - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
     - name: twitter:image
-      content: https://graphieros.github.io/graphieros-blog/og-taste.png
+      content: https://graphieros.github.io/graphieros-blog/og-a11y.png
 ---
 
 ---
