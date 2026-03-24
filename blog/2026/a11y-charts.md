@@ -35,7 +35,7 @@ Some years ago, I discovered the joys of building svg visuals brick by brick. Th
 <div style="display:flex; flex-direction: column; justify-content:center; align-items:center; padding: 2rem;">
     <img src="../../public/sa-kme.png" width="150" alt="glyph for the verb to love, in graphieros, pronounced sa-kme" style="border-radius: 3px">
     <small>
-        <i>sa-kme</i>, to love<br>(litteraly: live for)
+        <i>sa-kme</i>, to love<br>(litterally: live for)
     </small>
 </div>
 
