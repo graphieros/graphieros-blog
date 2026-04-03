@@ -97,6 +97,27 @@ Sharing chart screenshots on socials is great. It is even better when pictures h
 
 > This handy accessibility feature was suggested to me by **Alex Savelyev**, core member of npmx, highly talented and sensitive engineer. I recommend you <a href="https://www.alexdln.com/" target="_blank">check out their website</a>, packed with incredible tools and stunning photos!
 
+## 4. Making multiple series accessible
+
+When showing multiple series on a line chart is necessary, it can become hard to read (for all users) when all series are displayed on the same plane. Of course, users can filter visible series by clicking on legend items, but this might not be ideal for all users.
+
+Displaying series individually is a classic alternative in this case. Hovering a sparkline chart syncs the selected index on all other instances, making comparison easier:
+
+<table>
+    <thead>
+        <tr>
+            <th>Combined view</th>
+            <th>Split view</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="../../public/multiline.png" width="100%"></td>
+            <td><img src="../../public/multisparkline.png" width="100%"></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Temporary conclusion
 
 Contributing to npmx has made vue-data-ui better in terms of accessibility. There is obviously so much more to be done, to make data visualisation a pleasant ride for all.
