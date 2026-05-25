@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -33,5 +34,10 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/graphieros' },
       { icon: 'bluesky', link: 'https://bsky.app/profile/graphieros.com'}
     ]
+  },
+  markdown: {
+    config(md) {
+      md.use(footnote)
+    }
   }
 })

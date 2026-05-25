@@ -29,7 +29,7 @@ hero:
   actions:
     - theme: brand
       text: Read the latest post
-      link: /blog/2026/npmx
+      link: /blog/2026/about-centaurs
     - theme: alt
       text: Browse the blog
       link: /blog/
@@ -39,12 +39,11 @@ features:
     details: |
       <div style="display: flex; align-items:end; justify-content: space-between"
         <span>
-          vue-data-ui is in npmx <br>
-          npmx is in vue-data-ui <br>
+          About centaurs
         <span>
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M8 6.82v10.36c0 .79.87 1.27 1.54.84l8.14-5.18a1 1 0 0 0 0-1.69L9.54 5.98A.998.998 0 0 0 8 6.82"/></svg>
       </div>
-    link: /blog/2026/npmx
+    link: /blog/2026/about-centaurs
   - title: Vue Data UI
     details: |
       <a
